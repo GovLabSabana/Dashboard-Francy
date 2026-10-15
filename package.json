@@ -1,0 +1,20 @@
+{
+  "name": "dashboard-executive-escuela-gobierno",
+  "version": "1.0.0",
+  "description": "Dashboard Ejecutivo - Programas Executive - Escuela de Gobierno",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "dashboard",
+    "executive",
+    "railway"
+  ],
+  "author": "Escuela de Gobierno",
+  "license": "ISC",
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
